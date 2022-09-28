@@ -1,0 +1,120 @@
+/***************************  Extra  ***************************************/
+
+body {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+    width: 25%;
+    margin: 20px auto;
+    font-weight: 550;
+    font-size: 1.25rem;
+}
+
+hr {
+    margin: 50px auto;
+    background-color: transparent;
+    color: rgba(7, 241, 7, 0.336);
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 6%;
+}
+
+
+/****************************  Heading  ************************************/
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    background: rgb(131,58,180);
+    background: -webkit-radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin: auto;
+    color:  #66BFBF;
+}
+
+h3 {
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+/******************************  Div  **************************************/
+
+.bottom-container {
+    position: relative;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+}
+
+footer {
+    padding-top: 6px;
+    padding-bottom: 1px;
+    background-color: rgb(211, 243, 255);
+}
+
+.middle-container {
+    background-color: rgba(196, 251, 253, 0.589);
+    padding-bottom: 1px;
+}
+
+
+
+.profile {
+    padding-top: 5px;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: rgb(168, 229, 240);
+}
+
+/******************************  Images  **********************************/
+.cloud-1 {
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud-2{ 
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.linkedin {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+
+.mountain {
+    position: relative;
+    top: 3px;
+}
+
+.twitter {
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}

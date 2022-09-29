@@ -27,7 +27,7 @@ hr {
 /****************************  Heading  ************************************/
 
 h1 {
-    padding-top: 1%;
+    padding-top: 3%;
     font-size: 5.625rem;
     margin-top: 0;
     margin-bottom: -1%;
@@ -94,7 +94,7 @@ footer {
     height: 10%;
     position: absolute;
     left: 65%;
-    top: 1%;
+    top: 8%;
 }
 
 .cloud-2{ 
